@@ -81,7 +81,7 @@ print(df.head())
 | seventeen.lifestyle  | premium   | $455      | $650          | 84             | 62     | 9      | namecheap       |
 | instant.lifestyle    | available | $48.98    | —             | 108            | 37     | 7      | namecheap       |
 | newyork.lifestyle    | resell    | —         | —             | —              | 39     | 8      | Porkbun LLC     |
-| free.lifestyle       | premium   | $1,820    | $2,600        | 88             | 59     | 4      | namecheap       |
+| cloud.lifestyle      | premium   | $325      | $650          | 70             | 59     | 5      | namecheap       |
 | aaron.lifestyle      | available | $48.98    | —             | 88             | 35     | 5      | namecheap       |
 | blossom.lifestyle    | resell    | —         | —             | 76             | 33     | 7      | Spaceship, Inc. |
 
