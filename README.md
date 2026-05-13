@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .lifestyle one-word domains
 
 **Public extract:** 1,000 rows · **Live catalog:** 12,753 domains · **Median ask:** $110.99 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-11  
+**Last updated:** 2026-05-13  
 **Canonical page:** `https://unique.domains/domains/tld/lifestyle`  
 **Best for:** founders, investors, studios
 
@@ -81,7 +81,7 @@ print(df.head())
 | coins.lifestyle        | premium   | $98       | $140          | 56             | 41     | 5      | namecheap |
 | heroes.lifestyle       | available | $39.99    | —             | 68             | 29     | 6      | name.com  |
 | Tools.lifestyle        | premium   | $490      | $700          | 56             | 40     | 5      | namecheap |
-| information.lifestyle  | available | $39.99    | —             | 88             | 26     | 11     | name.com  |
+| information.lifestyle  | available | $39.99    | —             | 88             | 28     | 11     | name.com  |
 | lets.lifestyle         | premium   | $245      | $350          | 77             | 39     | 4      | namecheap |
 | events.lifestyle       | premium   | $490      | $700          | 68             | 37     | 6      | namecheap |
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .LIFESTYLE One-Word Domains*. Version 2026-05-11. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .LIFESTYLE One-Word Domains*. Version 2026-05-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
