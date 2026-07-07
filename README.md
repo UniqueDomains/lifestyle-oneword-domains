@@ -1,10 +1,10 @@
-# Available .LIFESTYLE One-Word Domains (12,755)
+# Available .LIFESTYLE One-Word Domains (12,756)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C755%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C756%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,12 +12,12 @@
 Daily-updated public extract of available and resale .lifestyle one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **12,755 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **12,756 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,755 domains · **Median ask:** $110.99 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,756 domains · **Median ask:** $159.50 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-26  
-**Canonical page:** `https://unique.domains/domains/tld/lifestyle`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/lifestyle`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .LIFESTYLE one-word do
 
 ### Files
 
-- `lifestyle.csv` — public CSV extract (1,000 rows)
-- `lifestyle.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `lifestyle.csv`, public CSV extract (1,000 rows)
+- `lifestyle.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain                 | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| ---------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| Trex.lifestyle         | available | $48.98    | —             | 80             | 24     | 5      | namecheap |
-| Apples.lifestyle       | available | $48.98    | —             | 90             | 16     | 6      | namecheap |
-| useit.lifestyle        | available | $39.99    | —             | 94             | 7      | 6      | name.com  |
-| toneup.lifestyle       | available | $39.99    | —             | 80             | 5      | 7      | name.com  |
-| pierogi.lifestyle      | available | $39.99    | —             | 82             | 7      | 7      | name.com  |
-| rumcake.lifestyle      | available | $39.99    | —             | 81             | 2      | 8      | name.com  |
-| neuroscience.lifestyle | available | $39.99    | —             | 80             | 37     | 12     | name.com  |
-| augmented.lifestyle    | resell    | —         | —             | 70             | 28     | 9      | GoDaddy   |
-| hotels.lifestyle       | premium   | $980      | $1,400        | 64             | 82     | 6      | namecheap |
-| stories.lifestyle      | available | $39.99    | —             | 58             | 36     | 7      | name.com  |
-| online.lifestyle       | premium   | $980      | $1,400        | 70             | 62     | 7      | namecheap |
-| rewards.lifestyle      | available | $5.49     | $39.99        | 62             | 30     | 7      | namesilo  |
-| RedSox.lifestyle       | premium   | $490      | $700          | 72             | 60     | 7      | namecheap |
-| heroes.lifestyle       | available | $39.99    | —             | 68             | 29     | 6      | name.com  |
-| coins.lifestyle        | premium   | $98       | $140          | 56             | 41     | 5      | namecheap |
-| information.lifestyle  | available | $39.99    | —             | 88             | 28     | 11     | name.com  |
-| Tools.lifestyle        | premium   | $490      | $700          | 56             | 40     | 5      | namecheap |
-| lets.lifestyle         | premium   | $245      | $350          | 77             | 39     | 4      | namecheap |
-| reports.lifestyle      | available | $39.99    | —             | 58             | 24     | 7      | name.com  |
-| events.lifestyle       | premium   | $490      | $700          | 68             | 37     | 6      | namecheap |
+| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| aftuh.lifestyle | available | $5.49     | $39.99        | medium         | low    | 5      | namesilo  |
+| ada.lifestyle   | premium   | $980      | $1,400        | medium         | medium | 3      | namecheap |
+| bland.lifestyle | available | $5.49     | $39.99        | medium         | low    | 5      | namesilo  |
+| ala.lifestyle   | premium   | $980      | $1,400        | high           | low    | 3      | namecheap |
+| Cindy.lifestyle | available | $5.49     | $39.99        | high           | low    | 5      | namesilo  |
+| ash.lifestyle   | premium   | $980      | $1,400        | medium         | low    | 3      | namecheap |
+| close.lifestyle | available | $5.49     | $39.99        | high           | low    | 5      | namesilo  |
+| bar.lifestyle   | premium   | $490      | $700          | high           | low    | 3      | namecheap |
+| falls.lifestyle | available | $5.49     | $39.99        | high           | low    | 5      | namesilo  |
+| BJP.lifestyle   | premium   | $245      | $350          | medium         | low    | 3      | namecheap |
+| Fanta.lifestyle | available | $39.99    | —             | high           | low    | 5      | name.com  |
+| bot.lifestyle   | premium   | $980      | $1,400        | high           | medium | 3      | namecheap |
+| irons.lifestyle | available | $5.49     | $39.99        | medium         | low    | 5      | namesilo  |
+| bro.lifestyle   | premium   | $980      | $1,400        | medium         | low    | 3      | namecheap |
+| jacks.lifestyle | available | $5.49     | $39.99        | medium         | low    | 5      | namesilo  |
+| coy.lifestyle   | premium   | $910      | $1,300        | medium         | low    | 3      | namecheap |
+| large.lifestyle | available | $5.49     | $39.99        | high           | low    | 5      | namesilo  |
+| err.lifestyle   | premium   | $980      | $1,400        | high           | low    | 3      | namecheap |
+| weeks.lifestyle | available | $5.49     | $39.99        | low            | low    | 5      | namesilo  |
+| fig.lifestyle   | premium   | $980      | $1,400        | medium         | low    | 3      | namecheap |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 12,755 live domains                        |
+| 1,000-row public sample | 12,756 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 0 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This selection is made up of one-word .lifestyle domains. The set spans direct dictionary-style terms, action words, and broad consumer phrases such as finals.lifestyle, jewels.lifestyle, ladies.lifestyle, and geton.lifestyle. For founders, the main question is whether the word is easy to remember, easy to say, and specific enough to support a clear brand. For investors, the focus is whether the ask leaves room for resale after renewal costs and whether the word has broad commercial use. Because .lifestyle is a niche extension, strong picks tend to be simple words with obvious meaning and clean spelling.
+This selection of one-word .lifestyle domain names covers everyday-life concepts such as fitness, home comfort, and personal wellbeing. Examples include makeit.lifestyle, dogsit.lifestyle, fittogether.lifestyle, and furnishings.lifestyle. With a median asking price near $159, these domains suit founders building lifestyle, wellness, or home brands, and investors tracking early demand in the .lifestyle extension.
 
-- Prioritize clear words with simple spelling and recall
-- Use ask price to judge downside before renewal costs
-- Broad consumer terms usually carry wider buyer appeal
-- Avoid words that may create trademark confusion
+- 12,756 one-word .lifestyle domains available to compare
+- Median asking price near $159 across the selection
+- Themes span fitness, home, wellness, and daily habits
+- Short, ownable names like keepfit.lifestyle and dogsit.lifestyle
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .LIFESTYLE One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .LIFESTYLE One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
