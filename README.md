@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .lifestyle one-word domains
 
 **Public extract:** 1,000 rows · **Live catalog:** 17,702 domains · **Median ask:** $110.29 · **High-demand under $2,500:** 54
 
-**Last updated:** 2026-08-19
+**Last updated:** 2026-08-20
 **Canonical page:** `https://unique.domains/domains/tld/lifestyle`
 **Best for:** founders, investors, studios
 
@@ -64,8 +64,6 @@ print(df.head())
 
 | domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
 | --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| quiet.lifestyle | premium   | $98       | $140          | high           | low    | 5      | namecheap |
-| pure.lifestyle  | premium   | $490      | $700          | high           | medium | 4      | namecheap |
 | liii.lifestyle  | available | $1.80     | $48.98        | low            | low    | 4      | namecheap |
 | ada.lifestyle   | premium   | $980      | $1,400        | medium         | medium | 3      | namecheap |
 | lxvi.lifestyle  | available | $1.80     | $48.98        | low            | low    | 4      | namecheap |
@@ -84,6 +82,8 @@ print(df.head())
 | bro.lifestyle   | premium   | $980      | $1,400        | medium         | low    | 3      | namecheap |
 | Fanta.lifestyle | available | $39.99    | —             | high           | low    | 5      | name.com  |
 | coy.lifestyle   | premium   | $910      | $1,300        | medium         | low    | 3      | namecheap |
+| irons.lifestyle | available | $5.49     | $39.99        | medium         | low    | 5      | namesilo  |
+| err.lifestyle   | premium   | $980      | $1,400        | high           | low    | 3      | namecheap |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .LIFESTYLE One-Word Domains*. Version 2026-08-19. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .LIFESTYLE One-Word Domains*. Version 2026-08-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
