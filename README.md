@@ -1,10 +1,10 @@
-# Available .LIFESTYLE One-Word Domains (24,944)
+# Available .LIFESTYLE One-Word Domains (25,537)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-24%2C944%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-25%2C537%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 Daily-updated public extract of available and resale .lifestyle one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **24,944 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **25,537 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 24,944 domains · **Median ask:** $134.76 · **High-demand under $2,500:** 94
+**Public extract:** 1,000 rows · **Live catalog:** 25,537 domains · **Median ask:** $134.65 · **High-demand under $2,500:** 98
 
 **Last updated:** 2026-09-28
 **Canonical page:** `https://unique.domains/domains/tld/lifestyle`
@@ -81,9 +81,9 @@ print(df.head())
 | doris.lifestyle | available | $5.49     | $39.99        | high           | low    | 5      | namesilo  |
 | doi.lifestyle   | premium   | $181.33   | $258.95       | high           | low    | 3      | spaceship |
 | emily.lifestyle | available | $5.49     | $39.99        | high           | medium | 5      | namesilo  |
+| dom.lifestyle   | premium   | $724.70   | $1,035.20     | high           | medium | 3      | spaceship |
+| engel.lifestyle | available | $1.24     | $31.25        | high           | low    | 5      | spaceship |
 | few.lifestyle   | premium   | $910      | $1,300        | high           | low    | 3      | namecheap |
-| flood.lifestyle | available | $5.49     | $39.99        | high           | low    | 5      | namesilo  |
-| gel.lifestyle   | premium   | $1,107    | $1,107        | high           | low    | 3      | namesilo  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 24,944 live domains                        |
+| 1,000-row public sample | 25,537 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 94 high-demand names under $2,500          |
+| Basic exported fields   | 98 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
