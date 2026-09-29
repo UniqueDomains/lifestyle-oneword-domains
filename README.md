@@ -1,10 +1,10 @@
-# Available .LIFESTYLE One-Word Domains (25,537)
+# Available .LIFESTYLE One-Word Domains (27,572)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-25%2C537%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-27%2C572%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .lifestyle one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **25,537 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **27,572 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 25,537 domains · **Median ask:** $134.65 · **High-demand under $2,500:** 98
+**Public extract:** 1,000 rows · **Live catalog:** 27,572 domains · **Median ask:** $135.60 · **High-demand under $2,500:** 109
 
-**Last updated:** 2026-09-28
+**Last updated:** 2026-09-29
 **Canonical page:** `https://unique.domains/domains/tld/lifestyle`
 **Best for:** founders, investors, studios
 
@@ -65,25 +65,25 @@ print(df.head())
 | domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
 | --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
 | biro.lifestyle  | available | $5.49     | $39.99        | medium         | low    | 4      | namesilo  |
-| abc.lifestyle   | premium   | $325      | $650          | high           | medium | 3      | namecheap |
-| agnes.lifestyle | available | $5.49     | $39.99        | high           | low    | 5      | namesilo  |
 | apt.lifestyle   | premium   | $1,250    | $1,250        | high           | low    | 3      | name.com  |
-| bercy.lifestyle | available | $1.80     | $48.98        | medium         | low    | 5      | namecheap |
+| voss.lifestyle  | available | $5.49     | $39.99        | medium         | low    | 4      | namesilo  |
 | bay.lifestyle   | premium   | $910      | $1,300        | high           | low    | 3      | namecheap |
-| beryl.lifestyle | available | $5.49     | $39.99        | medium         | low    | 5      | namesilo  |
+| agnes.lifestyle | available | $5.49     | $39.99        | high           | low    | 5      | namesilo  |
 | cab.lifestyle   | premium   | $1,107    | $1,107        | high           | low    | 3      | namesilo  |
-| carla.lifestyle | available | $1.80     | $48.98        | high           | low    | 5      | namecheap |
+| beryl.lifestyle | available | $5.49     | $39.99        | medium         | low    | 5      | namesilo  |
 | ccc.lifestyle   | premium   | $227.50   | $325          | high           | medium | 3      | namecheap |
-| chris.lifestyle | available | $5.49     | $39.99        | high           | medium | 5      | namesilo  |
+| bundy.lifestyle | available | $4.99     | $32.32        | medium         | low    | 5      | dynadot   |
 | dad.lifestyle   | premium   | $1,107    | $1,107        | high           | low    | 3      | namesilo  |
-| clxxx.lifestyle | available | $1.80     | $48.98        | medium         | low    | 5      | namecheap |
+| carla.lifestyle | available | $1.80     | $48.98        | high           | low    | 5      | namecheap |
 | dig.lifestyle   | premium   | $640      | $640          | high           | low    | 3      | namesilo  |
-| doris.lifestyle | available | $5.49     | $39.99        | high           | low    | 5      | namesilo  |
+| clxxx.lifestyle | available | $1.80     | $48.98        | medium         | low    | 5      | namecheap |
 | doi.lifestyle   | premium   | $181.33   | $258.95       | high           | low    | 3      | spaceship |
-| emily.lifestyle | available | $5.49     | $39.99        | high           | medium | 5      | namesilo  |
+| doris.lifestyle | available | $5.49     | $39.99        | high           | low    | 5      | namesilo  |
 | dom.lifestyle   | premium   | $724.70   | $1,035.20     | high           | medium | 3      | spaceship |
-| engel.lifestyle | available | $1.24     | $31.25        | high           | low    | 5      | spaceship |
+| emily.lifestyle | available | $5.49     | $39.99        | high           | medium | 5      | namesilo  |
 | few.lifestyle   | premium   | $910      | $1,300        | high           | low    | 3      | namecheap |
+| engel.lifestyle | available | $1.24     | $31.25        | high           | low    | 5      | spaceship |
+| gel.lifestyle   | premium   | $1,107    | $1,107        | high           | low    | 3      | namesilo  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 25,537 live domains                        |
+| 1,000-row public sample | 27,572 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 98 high-demand names under $2,500          |
+| Basic exported fields   | 109 high-demand names under $2,500         |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .LIFESTYLE One-Word Domains*. Version 2026-09-28. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .LIFESTYLE One-Word Domains*. Version 2026-09-29. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
