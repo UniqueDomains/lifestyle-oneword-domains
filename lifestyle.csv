@@ -3,7 +3,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 b046a20d-037f-4952-ae40-16221b5d4e48,dumps.lifestyle,premium,72.65,103.7,high,low,5,spaceship,,,30/09/2026 09:26
 5591be92-4089-4264-bd77-abf5fc949f04,peso.lifestyle,premium,455,650,high,low,4,namecheap,,,24/09/2026 14:37
 a43158c4-3463-45b2-9adf-af9ceb2fe255,sachs.lifestyle,premium,640,640,medium,low,5,namesilo,,,27/09/2026 01:53
-90d2667f-c669-49a6-aff7-e09204b24f23,newborn.lifestyle,available,1.8,48.98,high,low,7,namecheap,,,03/09/2026 16:41
+90d2667f-c669-49a6-aff7-e09204b24f23,newborn.lifestyle,available,5.49,39.99,medium,low,7,namesilo,,,02/10/2026 01:22
 1a6364c9-f8c1-4d35-9b71-7f6f55677649,phony.lifestyle,premium,91,130,medium,low,5,namecheap,,,08/08/2026 23:09
 8bc5fdd7-979f-4786-95f3-3b0bb6a37e6a,stature.lifestyle,available,1.24,31.25,high,low,7,spaceship,,,29/09/2026 08:08
 59329f29-e890-40e0-99fa-53366a0ee419,border.lifestyle,available,5.49,39.99,high,low,6,namesilo,,,23/09/2026 00:10
@@ -27,6 +27,8 @@ f18b67a6-bd1b-4df7-97e3-25734cb9ee74,efficiency.lifestyle,premium,640,640,high,l
 b4f93d50-6a39-444a-ac40-c925d29101e5,ethnical.lifestyle,available,1.8,48.98,high,low,8,namecheap,,,17/08/2026 13:49
 2bfa17f5-cf11-409f-8f9c-1501586d2f5e,hanged.lifestyle,available,1.24,31.25,medium,low,6,spaceship,,,28/09/2026 08:24
 00bb7cc7-a8ff-40da-830b-c1213a29df02,showtime.lifestyle,premium,550,550,high,medium,8,dynadot,,,29/09/2026 18:25
+b051b167-3c67-41c3-aea2-06709d28b5e3,psychotherapy.lifestyle,available,1.24,31.25,high,low,13,spaceship,,,01/10/2026 14:38
+60fb2467-50f0-4f59-b471-17b0f9c0c448,fixes.lifestyle,premium,109.69,109.69,medium,low,5,porkbun,,,01/10/2026 18:27
 80bb2020-b60e-4966-a3b5-c357d0140e95,tomas.lifestyle,available,1.24,31.25,medium,low,5,spaceship,,,28/09/2026 04:37
 ab89ccc7-94b3-4262-b937-3d9389499f98,titanic.lifestyle,available,1.8,48.98,high,low,7,namecheap,,,11/09/2026 16:30
 2bd1be46-c747-4315-bf10-34258b79f281,ratings.lifestyle,available,5.49,39.99,medium,low,7,namesilo,,,19/09/2026 11:52
@@ -61,7 +63,7 @@ cc918441-cf0c-46bb-b75a-a2eaa3d1e788,salvador.lifestyle,premium,109.69,109.69,hi
 abe9caf1-4cf8-4643-b50d-9d96235c0429,dangling.lifestyle,available,5.49,39.99,high,low,8,namesilo,,,01/10/2026 01:41
 6920d561-c1e5-4e56-91dd-ad6e3951a5db,squabble.lifestyle,available,1.8,48.98,medium,low,8,namecheap,,,23/09/2026 13:15
 d96d6d70-2766-45d3-9387-a4dcbcdd5aca,caddo.lifestyle,premium,72.65,103.7,high,low,5,spaceship,,,30/09/2026 16:33
-91ec6405-7a72-4990-9260-083cbe54c3f1,googler.lifestyle,available,39.99,,high,low,7,name.com,,,
+91ec6405-7a72-4990-9260-083cbe54c3f1,googler.lifestyle,available,1.24,31.25,high,low,7,spaceship,,,01/10/2026 22:14
 7c7978d0-070d-4b10-88d8-1d2b8a95d58f,chimpanzee.lifestyle,available,5.49,39.99,high,low,10,namesilo,,,24/09/2026 14:39
 9c06770d-69af-4a28-b4a0-0625bbeec2bc,plays.lifestyle,premium,116,116,medium,low,5,namesilo,,,18/09/2026 05:50
 a3f6e8ba-ffcf-48c8-aaa3-2b2cb2fd4621,hoar.lifestyle,premium,227.5,325,medium,low,4,namecheap,,,20/08/2026 19:18
@@ -92,6 +94,7 @@ f7e9e3ac-cbc7-4994-8071-e8c2998f362a,isd.lifestyle,premium,302.5,302.5,high,low,
 64121eda-5340-481a-afc5-6ee714b5800d,lodged.lifestyle,available,5.49,39.99,medium,low,6,namesilo,,,18/09/2026 14:44
 1faa58b5-0660-416b-9a87-5360842cbb44,commissions.lifestyle,available,1.24,31.25,medium,low,11,spaceship,,,01/10/2026 00:07
 b4aab3c7-a810-4462-9ad5-84787d7322b1,drinks.lifestyle,available,5.49,39.99,high,low,6,namesilo,,,25/09/2026 17:32
+2254070c-b01e-4c89-ba79-e6d3e6775699,recife.lifestyle,premium,72.65,103.7,high,low,6,spaceship,,,01/10/2026 21:15
 720f738a-a426-416d-9594-075225679ee6,verbalise.lifestyle,available,1.8,48.98,medium,low,9,namecheap,,,13/09/2026 00:16
 734dc665-96d9-4d27-80bc-7ddca1ae7ba0,garb.lifestyle,premium,227.5,325,high,low,4,namecheap,,,19/09/2026 19:56
 4a38c27d-9b15-4e5a-9b55-812a9c54e46e,shaker.lifestyle,available,4.63,31.41,high,low,6,porkbun,,,29/09/2026 13:29
@@ -120,12 +123,12 @@ a4aacfab-4a47-4a27-937c-2c182972e153,suite.lifestyle,premium,116,116,high,low,5,
 1aef7bf7-a6ce-4b8c-aabb-cad1fc2566ce,holla.lifestyle,premium,116,116,high,low,5,namesilo,,,23/09/2026 06:19
 65efe090-59b6-4efa-865f-2f6da63f3fd7,riming.lifestyle,available,1.8,48.98,medium,low,6,namecheap,,,09/09/2026 16:55
 57824cce-228b-4a2b-a768-10e2edd5f881,footing.lifestyle,available,5.49,39.99,high,low,7,namesilo,,,22/09/2026 11:02
-4472b62d-01b3-4a25-8f91-b07b25262de0,regarded.lifestyle,available,5.49,39.99,high,low,8,namesilo,,,
+4472b62d-01b3-4a25-8f91-b07b25262de0,regarded.lifestyle,available,1.24,31.25,high,low,8,spaceship,,,01/10/2026 19:17
 5cd25716-695a-418a-8b7f-fa33c2c9ae0b,murad.lifestyle,available,5.49,39.99,high,low,5,namesilo,,,30/09/2026 05:11
 8cfeb366-bf08-4533-a4c4-2b082f63bcc6,arguer.lifestyle,available,5.49,39.99,medium,low,6,namesilo,,,20/09/2026 04:46
 870be49f-7ba8-4d4b-82f6-f892a926a0ce,hides.lifestyle,premium,91,130,medium,low,5,namecheap,,,18/09/2026 23:59
 1dea7681-d09a-45cb-b910-0bbfa475a80a,midway.lifestyle,available,1.8,48.98,high,low,6,namecheap,,,11/08/2026 23:58
-81c591cb-15da-4651-ac4f-83d3426f5051,centralised.lifestyle,available,5.49,39.99,high,low,11,namesilo,,,
+81c591cb-15da-4651-ac4f-83d3426f5051,centralised.lifestyle,available,5.49,39.99,high,low,11,namesilo,,,02/10/2026 01:46
 7ca1a8f3-482a-4838-bf38-b76242258d27,fil.lifestyle,premium,724.7,1035.2,high,low,3,spaceship,,,30/09/2026 03:20
 7b99d3ca-f622-446c-b223-4ae43663097c,westbound.lifestyle,premium,455,650,high,low,9,namecheap,,,13/09/2026 10:51
 2e20dc22-1146-4b4d-9f13-930ac41e783b,hiding.lifestyle,available,1.8,48.98,high,low,6,namecheap,,,08/09/2026 11:45
@@ -134,6 +137,7 @@ af1cd29c-9549-4cd0-aabd-8168143feb96,checkpoint.lifestyle,available,5.49,39.99,h
 4b16b4cd-92d2-4631-95e5-b62c2cb67030,veal.lifestyle,premium,1449.2,2070.2,medium,low,4,spaceship,,,30/09/2026 14:19
 5af047c9-c510-4fb7-936e-f86a909c2266,slovenly.lifestyle,available,1.8,48.98,medium,low,8,namecheap,,,18/08/2026 16:55
 05465db1-7af6-439e-a476-7e3f691c98ea,knee.lifestyle,premium,302.5,302.5,high,low,4,namesilo,,,20/09/2026 11:27
+0974fc87-b21c-4110-83b3-a51038e6f524,dispatches.lifestyle,available,5.49,39.99,medium,low,10,namesilo,,,02/10/2026 04:00
 3a1cb9e2-e66c-4ef2-b6cf-9b00f8627b86,stumps.lifestyle,available,5.49,39.99,medium,low,6,namesilo,,,
 c15acaf2-4e71-486e-823b-9c423151c358,extendable.lifestyle,available,1.8,48.98,medium,low,10,namecheap,,,17/08/2026 18:59
 940d3583-61a8-40fd-817d-899601a2023b,bookshop.lifestyle,available,5.49,39.99,high,low,8,namesilo,,,24/09/2026 07:16
@@ -143,7 +147,7 @@ f90fe359-b87a-4936-9214-c485fbd25b03,primal.lifestyle,available,1.8,48.98,high,l
 a540fc87-2832-484e-bfb7-101d8e0a6afa,gracile.lifestyle,available,1.8,48.98,high,low,7,namecheap,,,20/08/2026 17:29
 2be4a292-2f08-4acb-81e5-c044a4cffe5b,agouti.lifestyle,available,1.8,48.98,medium,low,6,namecheap,,,17/09/2026 19:07
 76bc5bf3-15c0-4a77-afc1-329562cc5712,hoodlum.lifestyle,available,1.8,48.98,high,medium,7,namecheap,,,09/09/2026 06:04
-767b7bf8-8566-41b4-937d-9cd7b1a59c62,impractical.lifestyle,available,5.49,39.99,medium,low,11,namesilo,,,
+767b7bf8-8566-41b4-937d-9cd7b1a59c62,impractical.lifestyle,available,1.24,31.25,medium,low,11,spaceship,,,01/10/2026 20:10
 5676e531-be03-4e67-acda-fc9c83f535e3,christiana.lifestyle,available,1.24,31.25,medium,low,10,spaceship,,,01/10/2026 00:03
 eee604ab-ea78-4592-9645-ec5aa8ca4436,aplite.lifestyle,available,1.8,48.98,medium,low,6,namecheap,,,19/09/2026 17:42
 143f2e61-a2ff-4b18-8784-5fb16e850544,flatfoot.lifestyle,available,1.8,48.98,medium,low,8,namecheap,,,10/09/2026 16:10
@@ -173,6 +177,7 @@ c59308ee-f7fb-4b5b-8b85-54f3b7040cc8,frightened.lifestyle,available,1.8,48.98,me
 423d24a7-a76b-4516-98f8-17166e446d1c,wedged.lifestyle,available,1.8,48.98,medium,low,6,namecheap,,,21/08/2026 21:38
 13d5ca83-ef78-4581-b735-42a1242f5fdb,gaspar.lifestyle,available,4.63,31.41,high,low,6,porkbun,,,29/09/2026 18:14
 b704b610-8a3b-48ca-9541-61ac3bef0af4,rumor.lifestyle,premium,91,130,high,low,5,namecheap,,,21/08/2026 02:05
+396d9e1e-5f78-4af4-ad3b-6a61cfa160cf,adapting.lifestyle,available,1.24,31.25,medium,low,8,spaceship,,,02/10/2026 01:43
 a528c5b2-c54c-44b5-88fc-7951415d1045,bernadette.lifestyle,available,1.24,31.25,medium,low,10,spaceship,,,30/09/2026 05:01
 bc2137a6-1a0c-447a-b02e-e7d014525da6,doi.lifestyle,premium,181.33,258.95,high,low,3,spaceship,,,28/09/2026 01:47
 4a37486e-8a75-466b-bf9b-02d0c71277ae,cimmerian.lifestyle,available,1.8,48.98,medium,low,9,namecheap,,,12/08/2026 08:11
@@ -181,6 +186,7 @@ bc2137a6-1a0c-447a-b02e-e7d014525da6,doi.lifestyle,premium,181.33,258.95,high,lo
 5bd4795b-3c68-4f42-b1f5-2efd6f765308,rely.lifestyle,premium,275,275,high,low,4,dynadot,,,30/09/2026 14:02
 89a6c1d8-293d-46f6-accc-c5f59f0d0d87,hume.lifestyle,premium,302.5,302.5,high,low,4,namesilo,,,25/09/2026 04:46
 036296db-2e22-4b4e-90a7-7d78f6173c64,amusive.lifestyle,available,1.8,48.98,high,low,7,namecheap,,,
+3f8dac7f-5e44-4915-888e-ea1b53e096d3,leven.lifestyle,premium,110,110,high,low,5,dynadot,,,01/10/2026 22:22
 95a73275-89d5-4f13-aac3-3aec068eea52,cultivated.lifestyle,available,1.8,48.98,high,low,10,namecheap,,,13/08/2026 10:14
 14c2e70b-c786-4b2c-bbfa-d3e298ee0161,exhale.lifestyle,available,1.8,48.98,high,low,6,namecheap,,,30/09/2026 16:30
 0159c455-bd5c-4329-9034-a58a5a394bf3,catastrophe.lifestyle,available,4.63,31.41,medium,low,11,porkbun,,,28/09/2026 22:54
@@ -211,6 +217,7 @@ c733921f-94cd-4dc2-baa1-138b3c8fc2d0,cohesive.lifestyle,available,1.8,48.98,high
 f7cf4efb-1437-49ad-9ce9-5b53a038be53,sharma.lifestyle,available,4.63,31.41,high,low,6,porkbun,,,28/09/2026 03:27
 35776549-bad8-4acc-a49a-f0584244000d,asthmatic.lifestyle,available,5.49,39.99,medium,low,9,namesilo,,,22/09/2026 10:23
 e388d6e3-7718-422a-9598-f422152c405d,segal.lifestyle,available,1.24,31.25,medium,low,5,spaceship,,,28/09/2026 19:20
+10827ae6-6f52-442b-9c16-e1e403ebeec4,richey.lifestyle,available,1.8,48.98,medium,low,6,namecheap,,,02/10/2026 01:53
 2e357226-a1a6-4626-8c73-ae7641a026ef,sapphire.lifestyle,premium,640,640,high,medium,8,namesilo,,,22/09/2026 15:38
 7c2c2fb0-b076-475f-84eb-2697e0239b16,improver.lifestyle,available,1.8,48.98,high,low,8,namecheap,,,21/08/2026 14:58
 9d0ff808-74cb-49ff-9e04-ddd815171e9b,waxed.lifestyle,premium,91,130,high,low,5,namecheap,,,13/09/2026 08:40
@@ -220,6 +227,7 @@ e388d6e3-7718-422a-9598-f422152c405d,segal.lifestyle,available,1.24,31.25,medium
 0a8910e3-4cf9-4c60-8ba4-7348cceaea61,primadonna.lifestyle,available,5.49,39.99,medium,low,11,namesilo,,,
 e71ab682-323e-4a1f-8b91-c2e7a43070d1,lyrical.lifestyle,available,1.8,48.98,high,low,7,namecheap,,,24/08/2026 12:41
 b9926229-5838-4b90-b6bd-f3c771834250,monique.lifestyle,available,1.24,31.25,high,low,7,spaceship,,,30/09/2026 05:03
+ea6ae512-7e25-4ab6-b3bd-0adea14ced51,marshes.lifestyle,available,5.49,39.99,medium,low,7,namesilo,,,02/10/2026 03:37
 f1f23e86-bed5-42d1-bf92-35870465ba03,sandals.lifestyle,available,1.8,48.98,high,low,7,namecheap,,,20/09/2026 14:52
 8d67681a-f7da-4d64-b59b-c9b9ec99ab90,hawkins.lifestyle,premium,455,650,medium,low,7,namecheap,,,28/09/2026 09:24
 8183160e-30c9-496f-8335-4a4c1375dfd6,stubbs.lifestyle,available,1.24,31.25,medium,low,6,spaceship,,,28/09/2026 20:34
@@ -239,16 +247,17 @@ be4b5777-7c5f-4f1e-89b2-cab35e82c873,tiffany.lifestyle,premium,550,550,high,low,
 7887a7ed-d640-443c-a893-9b95a9df2b06,sloth.lifestyle,premium,72.65,103.7,high,low,5,spaceship,,,28/09/2026 17:33
 21a0265e-7620-4c6f-a70f-15bc3d06f5e6,becloud.lifestyle,available,1.8,48.98,medium,low,7,namecheap,,,03/09/2026 23:53
 3ba82ca5-43f9-4acc-b4f9-404812ac151d,crouch.lifestyle,available,1.8,48.98,medium,low,6,namecheap,,,10/09/2026 17:37
-102a82e6-9939-4400-ad83-094448faf69b,arbitrarily.lifestyle,available,39.99,,medium,low,11,name.com,,,
+102a82e6-9939-4400-ad83-094448faf69b,arbitrarily.lifestyle,available,1.24,31.25,medium,low,11,spaceship,,,01/10/2026 22:22
 c1e74f01-ce75-43e0-a762-c5d4a1db6eda,jiang.lifestyle,premium,1107,1107,high,low,5,namesilo,,,27/09/2026 08:14
 04e22844-147e-409c-b03c-6066818e23e1,correspond.lifestyle,available,1.24,31.25,high,low,10,spaceship,,,29/09/2026 19:02
 c6d36520-0abc-4399-9644-6dfd2a2806d3,grecian.lifestyle,available,1.8,48.98,high,low,7,namecheap,,,20/08/2026 19:44
 c3e4481f-6673-4791-a5e7-bb70d8059e79,hexed.lifestyle,premium,91,130,medium,low,5,namecheap,,,21/08/2026 07:51
 78f2df83-6859-4b9a-8520-89644859924b,iris.lifestyle,premium,,,high,medium,4,,,,28/09/2026 01:54
 c634c19a-43aa-460c-baa6-bb1103280eaa,cornwall.lifestyle,available,5.49,39.99,medium,low,8,namesilo,,,29/09/2026 06:24
-fb0c432e-2d72-4487-b462-9ebbe8a261eb,thoughtless.lifestyle,available,5.49,39.99,medium,low,11,namesilo,,,
+fb0c432e-2d72-4487-b462-9ebbe8a261eb,thoughtless.lifestyle,available,5.49,39.99,medium,low,11,namesilo,,,01/10/2026 08:10
 00e64b99-83ee-4ec5-8b0b-27ced2d144c2,nil.lifestyle,premium,910,1300,high,low,3,namecheap,,,03/09/2026 22:28
 55b8e5fc-b78b-46af-961a-643b49d744e7,adopt.lifestyle,premium,116,116,high,low,5,namesilo,,,28/09/2026 03:18
+53cbe4ea-e8ef-4cb9-ad6e-b3b745c0389c,illuminator.lifestyle,available,1.24,31.25,high,low,11,spaceship,,,01/10/2026 23:19
 3d52e7b7-9844-4117-a390-da775b95e4a5,analgesic.lifestyle,available,1.8,48.98,high,low,9,namecheap,,,
 8edab409-7bc9-4dc9-84d2-6834c8bdc765,qualifying.lifestyle,available,1.8,48.98,high,low,10,namecheap,,,23/08/2026 12:37
 288f557d-72b2-4845-b1c9-c925e19dbbc1,convolve.lifestyle,available,1.8,48.98,medium,low,8,namecheap,,,13/08/2026 00:01
@@ -259,11 +268,12 @@ fb0c432e-2d72-4487-b462-9ebbe8a261eb,thoughtless.lifestyle,available,5.49,39.99,
 175a9efd-504e-495f-9bac-8157e37d59c4,rashid.lifestyle,available,4.63,31.41,medium,low,6,porkbun,,,28/09/2026 16:48
 7507cba7-ab2b-45f1-a805-f97da2a22db1,cherub.lifestyle,available,5.49,39.99,high,low,6,namesilo,,,24/09/2026 14:18
 4a5922f8-d351-4eca-90c5-2f8f8b16529f,dancing.lifestyle,available,5.49,39.99,high,low,7,namesilo,,,25/09/2026 04:44
-f906a9ea-1a13-4db2-8a8d-a9345ec94afd,unimportant.lifestyle,available,5.49,39.99,medium,low,11,namesilo,,,
+f906a9ea-1a13-4db2-8a8d-a9345ec94afd,unimportant.lifestyle,available,1.24,31.25,medium,low,11,spaceship,,,01/10/2026 06:09
 12544354-3657-46ff-9262-9a4ebee59640,ceric.lifestyle,premium,91,130,medium,low,5,namecheap,,,12/08/2026 00:39
 49beebf4-db2b-4cfd-bf82-9752992b54ea,northrop.lifestyle,available,5.49,39.99,medium,low,8,namesilo,,,28/09/2026 10:11
 811289bc-4490-4085-8ef2-a24a82b4a8c9,aunt.lifestyle,premium,227.5,325,high,low,4,namecheap,,,28/09/2026 23:17
 99b42feb-b3fc-4763-8cab-d8ab441f3751,whatnot.lifestyle,available,5.49,39.99,high,low,8,namesilo,,,
+ac0099d1-aa7e-4e95-9a87-db4e7b7a0efc,biscayne.lifestyle,available,5.49,39.99,high,low,8,namesilo,,,01/10/2026 09:13
 a1d2e6fe-e542-43e7-8f7f-d7b153279ded,brewing.lifestyle,premium,1449.2,2070.2,high,low,7,spaceship,,,29/09/2026 18:06
 2a6bbc5c-956c-4751-990e-b0470ed077a0,mitotic.lifestyle,available,1.8,48.98,medium,low,7,namecheap,,,25/08/2026 02:08
 c29edb61-55fb-4e6b-a185-81e753158e2d,trigon.lifestyle,available,1.8,48.98,high,low,6,namecheap,,,11/09/2026 19:46
@@ -274,6 +284,7 @@ e9415247-da15-4062-8d17-89a04da8a22d,there.lifestyle,premium,91,130,high,low,5,n
 9bacb1eb-f396-4420-a9b9-071b10cdf281,gop.lifestyle,premium,362.45,517.7,high,low,3,spaceship,,,28/09/2026 09:54
 c7b26a47-7c14-43de-9642-c6ee45b9e1d9,invention.lifestyle,premium,724.7,1035.2,high,low,9,spaceship,,,28/09/2026 02:09
 588585d1-4617-457e-8599-13ab1ab93793,talking.lifestyle,available,5.49,39.99,high,low,7,namesilo,,,25/09/2026 10:48
+ce80f83b-ca7d-4a2a-925e-858515ca6b75,antibodies.lifestyle,available,5.49,39.99,medium,low,10,namesilo,,,01/10/2026 16:25
 bb8b49fa-a6ee-42f8-b866-9e15cac2a5f1,anglesey.lifestyle,available,1.8,48.98,high,low,8,namecheap,,,19/09/2026 06:27
 b1197c0c-25e8-4dfe-86f2-60bdd51f437d,rudderless.lifestyle,available,1.8,48.98,medium,low,10,namecheap,,,
 1b68c58b-32b8-4da7-bf79-b3d8a0f192a7,blameless.lifestyle,available,1.8,48.98,high,low,9,namecheap,,,10/08/2026 12:53
@@ -281,6 +292,7 @@ f39a9703-21aa-46e3-aa08-7911a965fc0a,dig.lifestyle,premium,640,640,high,low,3,na
 b299c239-eacb-47d2-8f67-9baf61f9e477,inhale.lifestyle,premium,640,640,high,low,6,namesilo,,,30/09/2026 16:29
 a229f808-34d8-4f5c-a378-8af3b8cfa241,nattily.lifestyle,available,1.8,48.98,high,low,7,namecheap,,,15/09/2026 16:12
 9ffc978e-8481-4363-8bcb-22d35e19a5b3,debauch.lifestyle,premium,455,650,medium,low,7,namecheap,,,13/08/2026 02:20
+8e262b6a-cd4f-4f66-8045-0817f82a11ea,resumes.lifestyle,premium,1100,1100,medium,low,7,dynadot,,,02/10/2026 03:34
 24a623a0-877e-42af-a6e0-05ac130149eb,emphasis.lifestyle,premium,640,640,high,low,8,namesilo,,,29/09/2026 12:11
 3b520f22-2641-4826-846b-0691cd4c1382,poison.lifestyle,available,1.8,48.98,high,low,6,namecheap,,,11/09/2026 18:25
 f83aa2c4-2ad6-458d-b847-3fa483b14c13,chongqing.lifestyle,premium,116,116,medium,low,9,namesilo,,,30/09/2026 09:09
@@ -292,8 +304,10 @@ f83aa2c4-2ad6-458d-b847-3fa483b14c13,chongqing.lifestyle,premium,116,116,medium,
 e29340b4-de8e-4641-8d1b-5cfd3669a3fe,sheetlike.lifestyle,available,1.8,48.98,high,medium,9,namecheap,,,10/09/2026 06:21
 9817a263-6738-46f5-9252-1dcb7c4efae6,beheading.lifestyle,available,5.49,39.99,medium,low,9,namesilo,,,23/09/2026 03:20
 5ef0d8d3-f2ca-4854-b769-1ed16d15df77,yahya.lifestyle,available,1.24,31.25,medium,low,5,spaceship,,,30/09/2026 13:53
+cf8171b8-114d-4cc4-94fa-46c27e7547f8,considerate.lifestyle,available,5.49,39.99,high,low,11,namesilo,,,01/10/2026 04:44
 c70474a0-0f0d-4c00-af25-21e58bb1eae2,fracture.lifestyle,available,1.8,48.98,high,low,8,namecheap,,,28/09/2026 01:53
 c5892a18-360b-4ec0-b24e-947623fc6139,pyrrhic.lifestyle,available,1.8,48.98,medium,low,7,namecheap,,,09/09/2026 07:12
+cec45df8-320b-48e8-9140-9b6f40c7ad99,cruises.lifestyle,premium,2183.84,2183.84,high,low,7,porkbun,,,02/10/2026 04:02
 fb345c87-10f8-44a3-81f0-4a2a071c2f3d,reichstag.lifestyle,available,5.49,39.99,medium,low,9,namesilo,,,28/09/2026 16:30
 19b3d862-4e52-4957-9761-c461e5649b7d,prosecution.lifestyle,available,39.99,,high,low,11,name.com,,,
 f8f9324f-ccb2-46d3-8599-8c4823dd7dc2,arctiid.lifestyle,available,5.49,39.99,medium,low,7,namesilo,,,20/09/2026 02:47
@@ -315,6 +329,7 @@ a7f9176a-6d99-40a1-97aa-fd73c299d2a5,camels.lifestyle,available,5.49,39.99,mediu
 402c3cb0-b67c-4684-8314-4218a3b4ec8c,producer.lifestyle,available,5.49,39.99,high,low,8,namesilo,,,25/09/2026 10:38
 84fc1f2f-c04d-4cf3-a5b5-7ad64c41e4d4,fulsome.lifestyle,available,1.8,48.98,medium,low,7,namecheap,,,11/08/2026 11:40
 149603ee-e026-4e5e-8dcd-7bc3fe973408,uncoiled.lifestyle,available,1.8,48.98,medium,low,8,namecheap,,,12/09/2026 05:44
+0180e62e-df70-438d-8e4a-4656a4a60ced,carmel.lifestyle,available,5.49,39.99,high,low,6,namesilo,,,01/10/2026 08:48
 c6c356c2-ea9a-4897-8ce9-c6a61b36d467,penalty.lifestyle,available,5.49,39.99,high,low,7,namesilo,,,27/09/2026 04:58
 87a9a02e-c51c-4402-ba0c-d7ad840ec376,framed.lifestyle,available,1.8,48.98,high,low,6,namecheap,,,18/08/2026 14:04
 a66e9891-d3c4-4dc2-a3ee-165cf2620d74,sloane.lifestyle,available,5.49,39.99,high,low,6,namesilo,,,28/09/2026 16:12
@@ -326,6 +341,7 @@ c8aef8ab-9adb-4b8f-9288-06bc68e5eeae,tecumseh.lifestyle,available,5.49,39.99,med
 1994ee09-acda-4004-b887-0141bc550a88,arioso.lifestyle,available,5.49,39.99,high,low,6,namesilo,,,20/09/2026 05:35
 429b1df8-5598-47bb-8c4c-1cf507d5e14a,lauren.lifestyle,premium,640,640,high,high,6,namesilo,,,25/09/2026 17:14
 f8f04a55-eb68-438c-bc29-f458a6bb2e82,pullover.lifestyle,available,1.8,48.98,medium,low,9,namecheap,,,16/09/2026 17:17
+e01695c7-eb9b-45b5-9f2c-95051e0b6926,metaphysical.lifestyle,available,4.99,32.32,medium,low,12,dynadot,,,02/10/2026 01:18
 8bdb848f-1a92-4e9c-971e-b21747260238,loony.lifestyle,premium,91,130,medium,low,5,namecheap,,,06/08/2026 21:17
 b72d6fd8-efee-4d85-a041-dd02a19be90f,weak.lifestyle,premium,302.5,302.5,high,low,4,namesilo,,,24/09/2026 04:57
 6720b102-2739-4851-bea9-c66a6abea23a,nat.lifestyle,premium,1107,1107,high,low,3,namesilo,,,28/09/2026 15:51
@@ -333,6 +349,7 @@ b72d6fd8-efee-4d85-a041-dd02a19be90f,weak.lifestyle,premium,302.5,302.5,high,low
 156532b2-f944-4dd0-921a-d7ae9a5235e4,initial.lifestyle,available,5.49,39.99,high,low,7,namesilo,,,25/09/2026 09:36
 70ac6584-290c-4cbb-b698-cf11b68be116,downer.lifestyle,available,1.8,48.98,medium,low,6,namecheap,,,14/08/2026 02:41
 e32448c7-10a0-46a0-b8bf-8fc2836f514d,territory.lifestyle,premium,550,550,high,low,9,dynadot,,,29/09/2026 16:20
+c8c1a89f-c321-4f02-bb75-cebd66f87987,discontinue.lifestyle,available,5.49,39.99,high,low,11,namesilo,,,01/10/2026 05:15
 65cab438-41ce-4de2-8d03-f658af70de1f,empress.lifestyle,available,5.49,39.99,high,low,7,namesilo,,,30/09/2026 17:09
 a941a637-4059-41fe-90e7-968a02cb1a4f,human.lifestyle,premium,640,640,high,medium,5,namesilo,,,25/09/2026 06:15
 2cf4fe3e-a389-469b-8bc2-2e2d2b4ff2d0,drugs.lifestyle,premium,910,1300,medium,low,5,namecheap,,,25/09/2026 16:42
@@ -361,6 +378,7 @@ eb569547-ff18-4378-9877-1ba58ebac8a3,scrimpy.lifestyle,available,1.8,48.98,mediu
 83c56e75-9840-4b8f-898a-0bbd70242622,skim.lifestyle,premium,910,1300,high,low,4,namecheap,,,10/09/2026 09:32
 99dd282d-4f27-44ca-a0cc-345643acd26b,maximising.lifestyle,available,1.8,48.98,medium,low,10,namecheap,,,24/08/2026 17:58
 78d2b1cf-e702-44a7-9e7a-ac9716c786f1,youre.lifestyle,premium,98,140,medium,low,5,namecheap,,,
+49fee6b7-05d0-4806-881b-b0ba8a990558,resale.lifestyle,available,5.49,39.99,high,low,6,namesilo,,,02/10/2026 02:31
 9930d271-700c-4e88-bf33-ef4744bdf82a,amplifies.lifestyle,available,1.8,48.98,medium,low,9,namecheap,,,17/09/2026 20:54
 065e183e-ffaf-4c08-9de0-3d014afbf921,observe.lifestyle,available,5.49,39.99,high,low,7,namesilo,,,25/09/2026 23:53
 24b6b7e4-2e10-4c8a-9f1f-0c93c32df473,violating.lifestyle,available,1.24,31.25,low,low,9,spaceship,,,29/09/2026 05:13
@@ -385,9 +403,11 @@ c9a0386c-a5a8-495c-b6a2-dfe1c2fa230f,reads.lifestyle,premium,116,116,medium,low,
 124772f3-6f19-4f4a-9f71-a26c26f507f1,immodest.lifestyle,available,1.8,48.98,medium,low,8,namecheap,,,21/08/2026 21:09
 583ba0fb-a8ae-4504-9b53-63e9eff4c10b,simple.lifestyle,premium,1449.2,2070.2,high,medium,6,spaceship,,,30/09/2026 13:43
 d0e84eae-54b1-4a76-a7f9-20f8479dc87c,animated.lifestyle,available,1.8,48.98,high,low,8,namecheap,,,22/09/2026 05:00
+e5e826a5-ae5f-4093-ab18-b37aa6fca32b,brutus.lifestyle,available,4.63,31.41,high,low,6,porkbun,,,01/10/2026 18:49
 5e4fed9b-4e71-45e5-ba3a-6bd718a62797,aleksandr.lifestyle,available,1.24,31.25,high,low,9,spaceship,,,28/09/2026 08:00
 2fbea7d7-18ca-49be-9a6b-b1020abbf509,faith.lifestyle,premium,550,550,high,low,5,dynadot,,,29/09/2026 18:54
 f199965a-5477-43d1-a46c-80ec7ad6c290,lowbrow.lifestyle,available,1.8,48.98,high,low,7,namecheap,,,
+12395c2b-eecd-4509-9343-57de39b709e9,timbers.lifestyle,available,5.49,39.99,high,low,7,namesilo,,,02/10/2026 01:33
 9c2a6685-0a22-429f-8ee7-597f2ec5a7c3,erased.lifestyle,available,1.8,48.98,medium,low,6,namecheap,,,29/09/2026 10:26
 f1a65d67-619f-4039-9b2a-5291cf7655a9,estimate.lifestyle,available,1.24,31.25,high,low,8,spaceship,,,28/09/2026 21:56
 0fe67c11-9822-401f-afeb-9777ba5efdff,normalization.lifestyle,available,5.49,39.99,high,low,13,namesilo,,,29/09/2026 09:26
@@ -398,6 +418,7 @@ b0b4dd82-168e-4dff-b256-e047cb60c3fe,amplitude.lifestyle,available,5.49,39.99,hi
 6f992659-31b2-4779-bd0f-40826cf1c27d,pitted.lifestyle,available,1.8,48.98,medium,low,6,namecheap,,,
 6e7629df-27fa-4a05-8389-d3c563f68de0,cyclist.lifestyle,available,5.49,39.99,high,low,7,namesilo,,,23/09/2026 13:21
 4565d1a7-1978-4324-9e68-e39ed7fec517,botanic.lifestyle,available,1.8,48.98,high,low,7,namecheap,,,10/08/2026 20:46
+6d327490-198c-4184-a5c3-9672433319b5,waged.lifestyle,premium,72.65,103.7,low,low,5,spaceship,,,01/10/2026 18:17
 51d82d49-d27d-4b6c-8a97-dd5751852a30,agee.lifestyle,premium,227.5,325,medium,low,4,namecheap,,,17/09/2026 16:52
 66cad915-95d1-40a5-986b-771cdd54259b,xcl.lifestyle,premium,910,1300,medium,low,3,namecheap,,,
 25936b29-b76b-425c-b3e7-a88a25c85b53,hampshire.lifestyle,premium,72.65,103.7,high,low,9,spaceship,,,29/09/2026 01:13
@@ -429,7 +450,7 @@ abad82a3-42c3-4815-a467-086440f9c1a2,crude.lifestyle,premium,116,116,high,low,5,
 259ee034-fff1-4923-9ddd-48875b8a9f3d,down.lifestyle,premium,302.5,302.5,high,low,4,namesilo,,,24/09/2026 11:53
 3d420fc0-2b31-4adf-ab5d-17cbf5992407,tempering.lifestyle,available,1.8,48.98,medium,low,9,namecheap,,,11/09/2026 10:56
 ec568000-9b78-4e63-afe5-bac8017fb4a3,glaswegian.lifestyle,available,1.8,48.98,high,low,10,namecheap,,,20/08/2026 14:14
-6eb1242d-5e3a-4028-897d-dba7f39fd0aa,legislative.lifestyle,available,5.49,39.99,high,low,11,namesilo,,,
+6eb1242d-5e3a-4028-897d-dba7f39fd0aa,legislative.lifestyle,available,5.49,39.99,high,low,11,namesilo,,,01/10/2026 07:23
 cb942453-7a30-41e1-9687-c4c50eed5064,tube.lifestyle,premium,640,640,high,low,4,namesilo,,,25/09/2026 22:34
 4e99cbf6-ab43-4860-bd3d-127442edb4ab,sulphur.lifestyle,available,1.8,48.98,medium,low,7,namecheap,,,20/09/2026 22:29
 c7434b0f-0902-4000-a8c7-75907bee1e30,cricket.lifestyle,premium,550,550,high,low,7,dynadot,,,29/09/2026 12:00
@@ -449,6 +470,7 @@ e6f3a34f-3a5b-4672-b2de-83ff3f2c9eb2,biro.lifestyle,available,5.49,39.99,medium,
 ef10c57c-1ae8-430a-8e5d-1fd1042d52f3,clanking.lifestyle,available,1.8,48.98,medium,low,8,namecheap,,,12/08/2026 09:33
 e9b672b9-a9f7-453e-8868-c82099a6f5fb,arcanum.lifestyle,available,5.49,39.99,high,low,7,namesilo,,,20/09/2026 01:37
 ea790281-3278-4dbd-b44d-8d39d0073ebf,residue.lifestyle,available,1.8,48.98,high,low,7,namecheap,,,09/09/2026 15:05
+f69a86dd-0aae-47c2-bfc9-5dc11d86d9e1,pulses.lifestyle,available,1.24,31.25,high,low,6,spaceship,,,01/10/2026 17:55
 14cb5558-c640-4bb3-945f-995ba071eb77,moulding.lifestyle,available,5.49,39.99,medium,low,8,namesilo,,,24/09/2026 15:25
 b8dc7593-4390-4a99-8b81-963904fdc0ba,madrona.lifestyle,available,5.49,39.99,medium,low,7,namesilo,,,20/09/2026 01:01
 dd4a6fe3-c1a8-4f86-9dbe-5589cbd17054,autarchic.lifestyle,available,1.8,48.98,medium,low,9,namecheap,,,07/08/2026 18:36
@@ -463,6 +485,7 @@ f2b7193c-4e62-49d2-891f-710786242c10,airliner.lifestyle,available,5.49,39.99,hig
 32618aba-46dd-45bf-8571-fe9d8309480c,coconut.lifestyle,available,1.24,31.25,high,low,7,spaceship,,,29/09/2026 10:13
 1b1ff48c-cbd2-47d0-ac40-80b521dfcca5,endangered.lifestyle,available,1.8,48.98,high,low,10,namecheap,,,17/08/2026 00:51
 33e2cb58-90ce-49bf-8974-129c2db49ff6,joey.lifestyle,premium,640,640,high,low,4,namesilo,,,25/09/2026 11:16
+b4afb25e-629d-462f-ab3e-38c9f536610e,peralta.lifestyle,available,4.99,32.32,medium,low,7,dynadot,,,01/10/2026 17:33
 367722eb-be3c-4a3d-8ccc-19f75cc595f6,peterson.lifestyle,available,5.49,39.99,high,low,8,namesilo,,,25/09/2026 17:40
 4aa4b1c3-fd2d-41e0-841a-d482d68e1d88,amhara.lifestyle,available,1.8,48.98,high,low,6,namecheap,,,18/09/2026 21:12
 90ea76d7-4a40-4ed3-bfbc-a321a2dcb659,capped.lifestyle,available,1.8,48.98,medium,low,6,namecheap,,,11/08/2026 18:02
@@ -475,6 +498,7 @@ c25aac63-2ee4-478a-b76a-212d14238a63,selection.lifestyle,available,1.24,31.25,hi
 260fb686-ca21-4941-b6a7-f66f6383091e,cab.lifestyle,premium,1107,1107,high,low,3,namesilo,,,24/09/2026 11:33
 515eb331-1eda-425e-aaae-c1a7cb34804d,sabbatic.lifestyle,available,1.8,48.98,high,low,8,namecheap,,,09/09/2026 20:32
 533e5c88-c281-4374-b30a-b18f85869261,tyndall.lifestyle,available,1.24,31.25,medium,low,7,spaceship,,,30/09/2026 17:44
+4c6f6380-f656-47e4-a7ff-3221e0eeb2b7,annabelle.lifestyle,available,5.49,39.99,medium,low,9,namesilo,,,02/10/2026 02:04
 a9b4b21a-deae-4c5d-bcb6-efe04916c8e8,acorus.lifestyle,available,5.49,39.99,medium,low,6,namesilo,,,17/09/2026 02:25
 2ad90d7e-1c36-4631-b170-70c2ae563217,dom.lifestyle,premium,724.7,1035.2,high,medium,3,spaceship,,,28/09/2026 07:01
 7df505d4-b5f1-4f03-9904-43156a75837c,wastewater.lifestyle,available,1.8,48.98,medium,low,10,namecheap,,,15/08/2026 15:34
@@ -487,6 +511,7 @@ d2f7b76f-d324-4342-89b7-b1789a3ff1d7,provo.lifestyle,available,1.24,31.25,high,l
 18677967-f32e-48c9-b109-19348acc757a,benefice.lifestyle,available,5.49,39.99,high,low,8,namesilo,,,23/09/2026 07:54
 7c60c960-c210-480f-adce-bbef3cf06567,fca.lifestyle,premium,546.35,546.35,high,low,3,porkbun,,,30/09/2026 19:55
 d94eed8c-9617-454c-accd-3d53b234a612,kankakee.lifestyle,available,1.24,31.25,medium,low,8,spaceship,,,30/09/2026 22:09
+f3987b3a-a6c3-4e51-a7a7-e1ecf723f783,prophecies.lifestyle,available,5.49,39.99,medium,low,10,namesilo,,,01/10/2026 17:36
 5efb8f69-7538-46bc-ab09-1bbec72fb94d,camden.lifestyle,premium,640,640,high,low,6,namesilo,,,30/09/2026 16:35
 f9610919-cf0e-46ea-bdb3-12507cb06b79,dashingly.lifestyle,available,1.8,48.98,high,low,9,namecheap,,,14/09/2026 10:41
 b9179784-4dd8-4910-871a-9fa5ac33a709,missed.lifestyle,available,1.8,48.98,medium,low,6,namecheap,,,25/08/2026 01:45
@@ -498,6 +523,7 @@ f8238f3d-0829-4e08-9b2c-c93171c162fe,parhelic.lifestyle,available,1.8,48.98,medi
 250bbcb7-88eb-4a01-b45d-6b7e35d1349b,acorn.lifestyle,premium,640,640,high,low,5,namesilo,,,17/09/2026 02:18
 5cbc3831-808c-4476-8b09-8b12258b24d9,gardens.lifestyle,available,5.49,39.99,medium,low,7,namesilo,,,28/09/2026 13:13
 8966d281-8ad0-4760-9c2a-fb635bd84aac,feet.lifestyle,premium,245,350,high,low,4,namecheap,,,
+d57ec999-fec1-4ecc-8329-3850badd40b0,jiangxi.lifestyle,available,5.49,39.99,high,low,7,namesilo,,,01/10/2026 09:43
 955e1304-1506-4a64-b2ec-9efce810617a,bounced.lifestyle,available,5.49,39.99,medium,low,7,namesilo,,,29/09/2026 17:31
 d8fd03e7-096e-4fce-9b7d-0eabe05c204a,redford.lifestyle,available,5.49,39.99,medium,low,7,namesilo,,,30/09/2026 09:06
 d278e397-830c-437b-9ecb-44a08e1facbb,apt.lifestyle,premium,1250,1250,high,low,3,name.com,,,22/09/2026 07:23
@@ -523,6 +549,7 @@ c62bb78b-c154-460c-85a6-5073026139ac,winking.lifestyle,available,1.8,48.98,high,
 3c571806-107e-4c29-8141-041cce9236a2,subatomic.lifestyle,available,1.8,48.98,medium,low,9,namecheap,,,10/09/2026 23:38
 b802ae27-2724-4176-886e-475a15208d82,abruzzi.lifestyle,available,1.8,48.98,medium,low,7,namecheap,,,16/09/2026 17:28
 5f49f0e9-30a6-4ef3-b62b-f1a725ffa320,addible.lifestyle,available,1.8,48.98,medium,low,7,namecheap,,,
+2462ce84-9d3c-4d98-8450-d9f79223e33f,jig.lifestyle,premium,1092.18,1092.18,high,low,3,porkbun,,,01/10/2026 19:47
 c6eda862-aea4-4cfe-9642-b3dd1e0ad8c8,homosexuals.lifestyle,available,1.24,31.25,low,low,11,spaceship,,,01/10/2026 00:33
 e32cd416-9e7f-47c2-bbf0-b57537e3577a,fai.lifestyle,premium,362.45,517.7,high,low,3,spaceship,,,29/09/2026 09:08
 233c1e5b-3492-46fc-bd1e-da8f053f99b8,mouldy.lifestyle,available,1.8,48.98,medium,low,6,namecheap,,,25/08/2026 03:52
@@ -548,13 +575,13 @@ ca795759-84b9-4d0e-9e58-ba8a9f2d7881,defines.lifestyle,available,5.49,39.99,medi
 2247d659-6f37-4f97-85a1-9b8ab85b56f6,benzine.lifestyle,available,5.49,39.99,medium,low,7,namesilo,,,23/09/2026 08:53
 2259b395-2a5f-4169-82a7-722d9823f692,physically.lifestyle,available,5.49,39.99,high,low,10,namesilo,,,19/09/2026 14:53
 a5eb924a-fee5-4c93-9c15-ab10391d2859,percival.lifestyle,available,5.49,39.99,high,low,8,namesilo,,,28/09/2026 16:27
-2f8e7bf8-b2e0-46ee-bbf9-815f91014398,retail.lifestyle,premium,640,640,high,low,6,namesilo,,,28/09/2026 06:47
+2f8e7bf8-b2e0-46ee-bbf9-815f91014398,retail.lifestyle,premium,640,640,high,low,6,namesilo,,,01/10/2026 15:26
 328cdb41-ac46-4c35-91d3-e1168a591804,sportsperson.lifestyle,available,5.49,39.99,high,low,12,namesilo,,,16/09/2026 08:58
 0012f5e7-fdd3-4f67-a1b7-a09e23566562,cernuous.lifestyle,available,1.8,48.98,medium,low,8,namecheap,,,12/08/2026 00:44
 a0f73a8d-033e-4c4f-ad21-aa5f525cd979,survives.lifestyle,available,1.24,31.25,high,low,8,spaceship,,,29/09/2026 17:53
 9d2b39f0-d552-485c-91bf-b6f2479b0e48,eviction.lifestyle,available,5.49,39.99,high,low,8,namesilo,,,24/09/2026 17:35
 ed83962e-1f38-4df7-a6a4-27df582a082c,waxen.lifestyle,premium,91,130,medium,low,5,namecheap,,,13/09/2026 08:42
-4602653e-5719-4742-a9bb-54c0a0ea2f07,sports.lifestyle,premium,1300,2600,high,medium,6,namecheap,,,
+4602653e-5719-4742-a9bb-54c0a0ea2f07,sports.lifestyle,premium,1449.2,2070.2,high,medium,6,spaceship,,,01/10/2026 19:07
 ad6347a7-dced-4fa3-8ad6-888373a1e5eb,fallow.lifestyle,available,1.8,48.98,medium,low,6,namecheap,,,17/08/2026 21:32
 7cc472e8-0336-4acb-b158-8a91e65f08ed,geological.lifestyle,available,1.8,48.98,high,low,10,namecheap,,,18/08/2026 22:28
 c53fc7a9-3a3e-4ede-a840-cdbb835f7c43,nigel.lifestyle,available,5.49,39.99,high,low,5,namesilo,,,27/09/2026 17:08
@@ -616,7 +643,7 @@ f4e7ae3f-30f6-43bc-8a2b-bcc9b7f91eb7,tarzan.lifestyle,available,1.24,31.25,high,
 8c750792-7e58-4122-b42b-94a9496cb4f9,clef.lifestyle,premium,302.5,302.5,high,low,4,namesilo,,,24/09/2026 15:30
 3f60191a-4a29-4632-9a50-fc733937d3b0,homespun.lifestyle,available,1.8,48.98,high,low,8,namecheap,,,13/08/2026 04:23
 d586dbb7-809e-4ee4-9869-a2ee13693d15,beaming.lifestyle,available,1.8,48.98,high,low,7,namecheap,,,09/08/2026 04:03
-c39f8611-ca64-490b-ab42-c66e70f40e7e,room.lifestyle,premium,2183.84,2183.84,high,low,4,porkbun,,,28/09/2026 06:11
+c39f8611-ca64-490b-ab42-c66e70f40e7e,room.lifestyle,premium,2183.84,2183.84,high,low,4,porkbun,,,01/10/2026 16:16
 b9965f73-fb68-4d7e-9de0-36af99229a9b,roth.lifestyle,premium,1107,1107,high,low,4,namesilo,,,25/09/2026 09:56
 3ff2108c-0216-406f-ac48-3e3d5e65e2e9,financially.lifestyle,available,1.8,48.98,medium,low,11,namecheap,,,28/09/2026 12:33
 caf1118c-bcfc-4feb-8ec8-87c47ec45f97,mindfully.lifestyle,available,1.8,48.98,high,low,9,namecheap,,,13/09/2026 17:29
@@ -629,6 +656,7 @@ e826f817-2de2-4715-b3e1-d112a8cbc59d,syndetic.lifestyle,available,1.8,48.98,medi
 805c0804-2e40-4ad9-a9b2-9ca01a134ea0,bergman.lifestyle,available,5.49,39.99,high,low,7,namesilo,,,23/09/2026 09:21
 b928b4b1-0de6-450b-9ebd-df5c1402b628,procedural.lifestyle,available,1.8,48.98,high,low,10,namecheap,,,09/09/2026 02:31
 5c633288-5b95-4c14-b06c-7c123c51022a,mansion.lifestyle,premium,362.45,517.7,high,low,7,spaceship,,,28/09/2026 06:20
+44504992-f217-4c23-9762-6784b4be6d80,sunnyvale.lifestyle,available,1.24,31.25,high,low,9,spaceship,,,01/10/2026 11:38
 4b1bec48-652a-4fe2-a672-4ed2ee6e11ae,jaws.lifestyle,premium,181.33,258.95,medium,low,4,spaceship,,,28/09/2026 22:10
 706384a7-a697-46db-83c5-121dde7fcb9c,ergonomics.lifestyle,available,1.8,48.98,high,low,10,namecheap,,,23/09/2026 17:53
 b7e4de48-a345-47ac-95d2-d36d78b144e5,credence.lifestyle,available,5.49,39.99,high,low,8,namesilo,,,16/09/2026 21:59
@@ -657,10 +685,12 @@ edcb3764-c403-4b3c-8cef-d391b3f1d3cb,misfortune.lifestyle,available,5.49,39.99,h
 1a165ef2-c0d7-4a19-affb-7e053ccd7f87,unturned.lifestyle,available,1.8,48.98,medium,low,8,namecheap,,,12/09/2026 21:54
 313938c4-d6bc-4c52-89bb-b8faf83500a5,starless.lifestyle,available,1.8,48.98,medium,low,8,namecheap,,,10/09/2026 18:52
 1b32c78b-22f4-4814-b505-6afdcff8ebcb,unloaded.lifestyle,available,1.8,48.98,medium,low,8,namecheap,,,12/09/2026 15:03
+e5d92055-6655-4601-a9a8-1be7fc7c9e2e,chrysostom.lifestyle,available,4.99,32.32,medium,low,10,dynadot,,,02/10/2026 00:43
 a979bff5-4856-4f38-b494-3f3aaea16604,appetence.lifestyle,available,5.49,39.99,medium,low,9,namesilo,,,19/09/2026 20:44
 fadbea23-437d-4cf8-baff-880717cabb4e,wives.lifestyle,premium,98,140,medium,low,5,namecheap,,,
 7449bbbd-6b9c-4067-957d-734cd5561d77,bethel.lifestyle,premium,91,130,medium,low,6,namecheap,,,23/09/2026 11:13
 0091daf2-4200-48fd-b26c-c15a5f89763a,cabins.lifestyle,available,5.49,39.99,medium,low,6,namesilo,,,20/09/2026 12:16
+8c22dcf7-bbbe-4d7b-8da5-212c6abc1819,voigt.lifestyle,available,1.24,31.25,high,low,5,spaceship,,,02/10/2026 00:35
 73e9d01e-2660-470c-a40b-9d4e3755cc4e,sims.lifestyle,premium,302.5,302.5,medium,low,4,namesilo,,,29/09/2026 04:07
 7ea6a19d-e5d0-4abd-aed4-94715ea09976,laurence.lifestyle,available,1.24,31.25,high,low,8,spaceship,,,30/09/2026 06:35
 906d334f-f24e-43f1-809a-a61012db87b7,murine.lifestyle,available,1.8,48.98,medium,low,6,namecheap,,,03/09/2026 11:04
@@ -671,6 +701,7 @@ b27a4899-8017-4017-b80e-2e1def7c2057,catcher.lifestyle,available,5.49,39.99,high
 48ae222e-948b-4098-ada0-df67fa9d85f6,bargee.lifestyle,available,5.49,39.99,medium,low,6,namesilo,,,22/09/2026 05:47
 18db9454-2a83-4d85-b428-69f7139a704f,unskilled.lifestyle,available,1.8,48.98,medium,low,9,namecheap,,,
 f9e03e60-85d7-4e45-be0e-721009adb414,redeem.lifestyle,premium,640,640,high,low,6,namesilo,,,30/09/2026 02:39
+6e46420a-039e-477c-9ef3-7d42716bcf16,uplift.lifestyle,available,5.49,39.99,high,low,6,namesilo,,,01/10/2026 22:01
 ca20f75b-aba5-487b-b072-dd1ab6cd8dcb,biographer.lifestyle,available,1.8,48.98,high,low,10,namecheap,,,23/09/2026 18:07
 b0f72b5a-06c6-4dbe-b29c-47223be0ff86,tit.lifestyle,premium,1100,1100,high,low,3,dynadot,,,29/09/2026 19:36
 6fc8438e-3799-4ee3-93d9-36a111f19609,lao.lifestyle,premium,910,1300,high,low,3,namecheap,,,22/08/2026 19:34
@@ -678,6 +709,7 @@ cf7d3e20-9bf2-4977-a8a1-9f9a53437f26,praying.lifestyle,available,5.49,39.99,high
 70de03e4-bec8-4a88-a7a9-71894ca9dc8b,pyretic.lifestyle,available,1.8,48.98,medium,low,7,namecheap,,,09/09/2026 07:03
 5132f407-4f63-4b01-b96c-39a5f072766e,inscribed.lifestyle,available,1.8,48.98,medium,low,9,namecheap,,,17/08/2026 08:24
 d49e2895-7b8d-4dad-921e-48d6f850062f,threescore.lifestyle,available,1.8,48.98,medium,low,10,namecheap,,,
+217a7ac7-d0f4-412d-aaac-468f0fce60a1,robby.lifestyle,available,1.24,31.25,high,low,5,spaceship,,,01/10/2026 23:55
 e194513e-c0f3-45fd-8426-bd3b253ae5b2,stung.lifestyle,premium,91,130,medium,low,5,namecheap,,,
 b9c9e608-f18f-49d8-9e2f-53afa6e5c42d,caprine.lifestyle,available,1.8,48.98,medium,low,7,namecheap,,,11/08/2026 18:06
 164e6b2c-9e47-490a-a2d8-6d437d7792e6,respondents.lifestyle,available,5.49,39.99,medium,low,11,namesilo,,,25/09/2026 21:41
@@ -690,7 +722,9 @@ f14548cc-de71-4e6c-8dc4-17e36c9f07b3,uptight.lifestyle,available,1.8,48.98,mediu
 551e48e7-300c-4b24-91e2-a29c428934f1,ideal.lifestyle,premium,455,650,high,low,5,namecheap,,,25/09/2026 07:17
 5db93562-1d6d-48c2-bd41-510d05bc45f8,appetency.lifestyle,available,5.49,39.99,medium,low,9,namesilo,,,19/09/2026 20:43
 3ded2f8c-f4d7-443e-830e-3e5fa07c13c0,andrena.lifestyle,available,5.49,39.99,medium,low,7,namesilo,,,19/09/2026 04:31
-e191dfac-3fff-4fc5-8330-f03ff7fc4108,his.lifestyle,premium,980,1400,high,low,3,namecheap,,,
+e191dfac-3fff-4fc5-8330-f03ff7fc4108,his.lifestyle,premium,724.7,1035.2,high,low,3,spaceship,,,01/10/2026 11:33
+d8c3042d-2f13-45d5-98f1-2f7aa884374e,zuckerman.lifestyle,available,1.24,31.25,medium,low,9,spaceship,,,02/10/2026 00:34
+35d3e79d-f22f-4273-af60-d3e3fcf6cc2c,academical.lifestyle,available,1.24,31.25,high,low,10,spaceship,,,01/10/2026 22:17
 b038d429-c60c-4842-944f-8d08b04ae1b4,carla.lifestyle,available,1.8,48.98,high,low,5,namecheap,,,27/09/2026 07:21
 28f88997-6e9c-40ff-a0e7-5f886429c559,healthful.lifestyle,available,1.8,48.98,high,low,9,namecheap,,,21/08/2026 02:02
 6bf96176-b0ff-4bd7-b487-056192d96a80,regulars.lifestyle,available,1.24,31.25,medium,low,8,spaceship,,,30/09/2026 15:46
@@ -715,6 +749,7 @@ d06ffb5f-6b1f-4f0b-99c5-5dd011134c69,communication.lifestyle,available,5.49,39.9
 bc416dec-610b-4bce-9201-536e1cfa0725,upon.lifestyle,premium,181.33,258.95,medium,low,4,spaceship,,,01/10/2026 01:32
 4dbb237d-baa6-4f3b-8e44-c7d8c1cb613b,unyielding.lifestyle,available,1.8,48.98,high,low,10,namecheap,,,14/08/2026 15:01
 e8965a1e-fedd-47e2-8953-c9da15341370,simulated.lifestyle,available,5.49,39.99,high,low,9,namesilo,,,30/09/2026 15:47
+5acdc880-7ed4-46d9-a282-6cfa23fee7eb,counters.lifestyle,available,5.49,39.99,medium,low,8,namesilo,,,01/10/2026 17:08
 23264a4d-cb04-4e58-83b6-7fee18ca88cd,hearn.lifestyle,available,1.24,31.25,high,low,5,spaceship,,,29/09/2026 15:40
 e6f1bbfe-a675-4967-8ba7-52b377e6b288,aws.lifestyle,premium,362.45,517.7,high,high,3,spaceship,,,30/09/2026 22:02
 09db9bfb-1f06-4daf-95d9-a786d91f0b6b,justify.lifestyle,available,1.24,31.25,high,low,7,spaceship,,,28/09/2026 11:05
@@ -722,6 +757,7 @@ e6f1bbfe-a675-4967-8ba7-52b377e6b288,aws.lifestyle,premium,362.45,517.7,high,hig
 3576ee7c-a088-41ba-a8a0-98d74ae9ca67,hindi.lifestyle,premium,91,130,high,low,5,namecheap,,,21/08/2026 09:32
 e6c3977f-4e1e-4031-b7b5-5c7b4680e663,strengthening.lifestyle,available,1.24,31.25,high,low,13,spaceship,,,30/09/2026 19:59
 0f4d3551-7e2e-4582-ae05-f81c003336da,abbott.lifestyle,premium,362.45,517.7,high,low,6,spaceship,,,27/09/2026 17:56
+1fb88bd4-3b53-461f-a511-9955158cdcc7,builders.lifestyle,premium,362.45,517.7,high,low,8,spaceship,,,01/10/2026 18:19
 66adf299-dbdb-4d77-b6fd-2765873c406d,mahabharata.lifestyle,available,1.24,31.25,high,low,11,spaceship,,,30/09/2026 20:17
 7c18823d-c004-4121-a9aa-dc8215928ac8,bull.lifestyle,premium,724.7,1035.2,high,low,4,spaceship,,,29/09/2026 04:47
 c6c2bba1-b0e9-4ef9-9370-8a4746cc724c,technologist.lifestyle,available,4.99,32.32,high,low,12,dynadot,,,30/09/2026 02:33
@@ -765,6 +801,7 @@ be4b3cf6-3a79-4e42-89c6-e5abfb2b3f37,mercury.lifestyle,premium,1820,2600,high,me
 403448e6-991b-4dd5-921c-ed911f6e29db,hydrated.lifestyle,available,1.8,48.98,high,low,8,namecheap,,,21/08/2026 16:16
 fb0ca639-3bb3-4d5e-b957-4c410e6e61f8,leafless.lifestyle,available,1.8,48.98,medium,low,8,namecheap,,,22/08/2026 21:56
 402d26e5-3d16-4d6e-a1db-c88b59aea6e8,ambuscade.lifestyle,available,1.8,48.98,medium,low,9,namecheap,,,24/08/2026 12:31
+4ea9f2dc-bbec-46c1-9dcb-9162a54864a3,nests.lifestyle,premium,72.65,103.7,medium,low,5,spaceship,,,02/10/2026 02:53
 4309192e-41fd-439e-94ef-fdc4d148464d,differ.lifestyle,available,1.24,31.25,high,low,6,spaceship,,,28/09/2026 20:49
 e15257ce-3de8-418b-829b-646b5cd95b07,kissinger.lifestyle,available,4.99,32.32,medium,low,9,dynadot,,,28/09/2026 10:01
 98563b25-2202-458a-a428-000fbe03c18f,outboard.lifestyle,available,1.8,48.98,high,low,8,namecheap,,,04/09/2026 18:55
@@ -820,8 +857,10 @@ b17bf789-7cd6-4fa7-bedd-0fe6d7e4bc4c,weapon.lifestyle,available,5.49,39.99,high,
 fe62497b-ed87-49d2-8792-a329eda5c9e2,tuna.lifestyle,premium,302.5,302.5,high,low,4,namesilo,,,19/09/2026 07:27
 997982a8-77a9-4364-8899-92181967f2b9,appalachia.lifestyle,available,5.49,39.99,medium,low,10,namesilo,,,19/09/2026 19:44
 41a2cbef-907d-46ee-89a8-d49c5417ae24,salads.lifestyle,premium,2183.84,2183.84,medium,low,6,porkbun,,,30/09/2026 14:29
+6846be1e-4a12-4906-b3d9-f99541fe2535,virgins.lifestyle,available,1.8,48.98,medium,low,7,namecheap,,,01/10/2026 10:00
 4e1737fe-ab4f-4f89-9ed7-7a13b0ba1d1d,hays.lifestyle,premium,640,640,medium,low,4,namesilo,,,20/09/2026 10:51
 0aa6cdcd-a0e6-43e1-92bb-2593f7785359,violate.lifestyle,available,5.49,39.99,medium,low,7,namesilo,,,28/09/2026 13:36
+45e1d360-02ee-4500-88b0-29228b9473d0,chevrolet.lifestyle,premium,640,640,high,low,9,namesilo,,,01/10/2026 23:54
 5323f5be-be28-4895-9a83-2d59fd8db92a,returnable.lifestyle,available,1.8,48.98,high,low,10,namecheap,,,09/09/2026 15:55
 2244fd34-7362-4a02-9c5b-30b6cfa7501f,regimented.lifestyle,available,1.8,48.98,high,medium,10,namecheap,,,09/09/2026 12:55
 6f41faf1-9d6f-45e0-ba61-80be0711e99f,smoke.lifestyle,premium,72.65,103.7,high,low,5,spaceship,,,27/09/2026 23:23
@@ -830,12 +869,14 @@ fe62497b-ed87-49d2-8792-a329eda5c9e2,tuna.lifestyle,premium,302.5,302.5,high,low
 4e54b167-b8db-488d-9a4c-cb4c9d1b3a59,qatari.lifestyle,available,1.8,48.98,high,low,6,namecheap,,,22/08/2026 15:09
 570fe2d8-9e1d-4f39-9b19-baeadc3b6e5e,doris.lifestyle,available,5.49,39.99,high,low,5,namesilo,,,27/09/2026 03:46
 7ecb7048-dfcc-4bc3-85f7-e8fac2f3cb48,salable.lifestyle,available,1.8,48.98,high,medium,7,namecheap,,,09/09/2026 20:50
+ba7eeace-a14a-4ff4-aeec-10d61a318b98,napa.lifestyle,premium,181.33,258.95,high,low,4,spaceship,,,01/10/2026 18:48
 452d3134-a000-4d4c-9f45-97a3c2f75228,shoots.lifestyle,available,5.49,39.99,high,low,6,namesilo,,,28/09/2026 03:32
 5eb145d7-1b40-4e16-bafa-206802f176b6,cyprinid.lifestyle,available,39.99,59.99,medium,low,8,name.com,,,13/08/2026 14:27
 6e139579-a1ae-4e0a-a27d-8e70776ffa3c,interest.lifestyle,available,1.8,48.98,high,low,8,namecheap,,,08/09/2026 14:02
 d0ae8929-29b5-4db7-aa60-47a2d31bcd08,viewpoint.lifestyle,available,1.24,31.25,high,low,9,spaceship,,,29/09/2026 20:00
 2f932bf5-5c99-42c9-98ff-3d8a846e0053,sneezy.lifestyle,available,1.8,48.98,high,medium,6,namecheap,,,10/09/2026 12:34
 cf484459-b178-422b-a756-ef16b1455a4f,aperture.lifestyle,premium,640,640,high,low,8,namesilo,,,19/09/2026 16:35
+8dd57331-1b0a-41ec-a023-612fd5fef3ee,toaster.lifestyle,available,1.24,31.25,high,low,7,spaceship,,,01/10/2026 21:56
 0d332b1d-6e1f-40e8-a8cd-29757c844f2c,through.lifestyle,available,1.8,48.98,high,low,7,namecheap,,,24/09/2026 11:40
 341cbb36-1e96-4f76-8f35-21dc3040d071,styles.lifestyle,premium,362.45,517.7,high,low,6,spaceship,,,28/09/2026 22:23
 01ad516e-916c-4dfb-bb4c-50a7fac5cf9c,stairs.lifestyle,available,1.24,31.25,high,low,6,spaceship,,,30/09/2026 11:47
@@ -850,6 +891,7 @@ a28c733b-c31a-4bd8-aae8-c6bb2a0735be,ictic.lifestyle,premium,91,130,low,low,5,na
 951b93de-cfe7-4102-b5df-505cd4a6decc,garcia.lifestyle,available,1.8,48.98,high,low,6,namecheap,,,25/09/2026 20:50
 670da4e3-402f-4d62-a348-eeaada55e60f,inpatient.lifestyle,available,5.49,39.99,medium,low,10,namesilo,,,20/09/2026 21:46
 1e26d3d9-aa93-4929-912d-e1f434ac659c,notice.lifestyle,available,1.8,48.98,high,low,6,namecheap,,,24/09/2026 16:29
+e4231a01-d189-4e07-be29-85d6849ae4f5,mechanisms.lifestyle,available,5.49,39.99,medium,low,10,namesilo,,,01/10/2026 16:08
 bca237e2-7118-43e3-bed2-e63f58bbdfd7,wednesday.lifestyle,available,1.8,48.98,high,low,9,namecheap,,,13/09/2026 09:32
 f2aa20fe-98e2-404e-a45e-8431a4927904,serb.lifestyle,premium,227.5,325,high,low,4,namecheap,,,10/09/2026 04:35
 33cdef95-d8f4-4355-8d14-8646f0674a0b,pennies.lifestyle,available,5.49,39.99,medium,low,7,namesilo,,,
@@ -867,6 +909,7 @@ e28bc475-0bbd-42c1-9655-314848479968,covert.lifestyle,available,5.49,39.99,high,
 f415ede6-c115-4bb3-afce-891c2a2bc5ab,labeled.lifestyle,available,1.8,48.98,high,low,7,namecheap,,,22/08/2026 17:13
 d914b0d1-2983-4219-b83f-7cce8f7299ea,lentils.lifestyle,available,5.49,39.99,medium,low,7,namesilo,,,21/09/2026 05:31
 f6a255a0-1995-435c-8362-5a53738b5fc3,arced.lifestyle,premium,91,130,medium,low,5,namecheap,,,06/08/2026 14:28
+635b7061-4f37-41f6-a84c-ff76a7221ba8,imd.lifestyle,premium,362.45,517.7,high,low,3,spaceship,,,01/10/2026 23:35
 b21399c2-1409-477f-b53c-a38111c9fc61,dentistry.lifestyle,available,1.8,48.98,high,low,9,namecheap,,,24/09/2026 21:55
 c1a2b991-fc63-40d9-8c4f-b30f843a140d,carob.lifestyle,premium,116,116,high,low,5,namesilo,,,18/09/2026 06:50
 bddd2860-a8e4-4738-b11e-548631669aa4,lingually.lifestyle,available,1.8,48.98,medium,low,9,namecheap,,,15/09/2026 12:28
@@ -905,11 +948,13 @@ bb836661-e343-4e35-a04d-1b89f7614d9c,despite.lifestyle,available,5.49,39.99,high
 dc6bd788-d35c-4221-9430-d4392b28cf1a,dedication.lifestyle,available,5.49,39.99,high,low,10,namesilo,,,18/09/2026 10:32
 ab1b601b-d8fc-4c4e-ad48-d99b9ffe3e0e,generator.lifestyle,available,0.99,59.99,high,low,9,godaddy,,,28/09/2026 01:59
 c1e36718-9583-43d1-b993-5e2d4c91cc98,rainy.lifestyle,premium,91,130,high,medium,5,namecheap,,,09/09/2026 09:50
+1f93c1c3-3937-4120-b183-6d011225c523,guanajuato.lifestyle,available,5.49,39.99,high,low,10,namesilo,,,01/10/2026 09:14
 f933bb9b-b1b8-4a51-9be6-1fab0954cf68,imports.lifestyle,available,0.99,59.99,medium,low,7,godaddy,,,01/10/2026 00:34
 51e2f782-0f37-442a-ab12-fc40dc5b082a,obsequious.lifestyle,available,1.8,48.98,medium,low,10,namecheap,,,10/08/2026 19:44
 acd86b76-fbec-434d-8bc7-fb3b8edd87cb,bald.lifestyle,premium,910,1300,medium,low,4,namecheap,,,08/08/2026 09:16
 692faa57-2b6c-4ff2-9acc-bb029573f3cb,clxxx.lifestyle,available,1.8,48.98,medium,low,5,namecheap,,,
 b7fd4848-e778-4be6-850f-1f762a1d356c,unsightly.lifestyle,available,1.8,48.98,medium,low,9,namecheap,,,12/09/2026 19:53
+fc3d4686-11c8-45fe-b840-e20565754b1b,darpa.lifestyle,available,1.24,31.25,medium,low,5,spaceship,,,01/10/2026 19:10
 2db70ef5-22cc-4adc-9707-e72eaf6dd640,hay.lifestyle,premium,362.45,517.7,high,low,3,spaceship,,,28/09/2026 14:24
 bf3b6f2c-75ab-46d8-b0e4-813040a9aaf0,postmortem.lifestyle,available,1.8,48.98,medium,low,10,namecheap,,,09/09/2026 00:31
 4448615d-75d1-44b5-aa40-507e8e93944f,appleton.lifestyle,premium,455,650,medium,low,8,namecheap,,,19/09/2026 21:41
@@ -928,11 +973,12 @@ c1c330e9-0d76-4008-a7e8-47d758148226,prefrontal.lifestyle,available,1.8,48.98,hi
 11e68361-a4dd-493d-a131-f8725d6b634a,successive.lifestyle,available,1.8,48.98,high,low,10,namecheap,,,10/09/2026 04:29
 0ac53197-c4bc-4b79-a177-cf585e682c48,filthy.lifestyle,available,1.8,48.98,high,low,6,namecheap,,,13/08/2026 08:46
 9cc4d88a-db0b-468f-8c17-4feae377d9ee,perimeter.lifestyle,available,5.49,39.99,high,low,9,namesilo,,,28/09/2026 01:41
+175ce596-bfad-4b5f-bb51-c58aebc2d886,handbag.lifestyle,available,1.8,48.98,high,low,7,namecheap,,,01/10/2026 19:55
 122298f4-cf20-466a-b8be-04690fc1223a,spaciously.lifestyle,available,1.8,48.98,medium,low,10,namecheap,,,16/09/2026 00:04
 f6bba393-1a31-45d0-9e37-c69e8fa2912c,sir.lifestyle,premium,910,1300,high,low,3,namecheap,,,26/09/2026 00:18
 318f7dbe-4c64-4760-813d-154c804d7b7e,maryland.lifestyle,premium,362.45,517.7,high,low,8,spaceship,,,28/09/2026 19:17
 a86d4af7-52d4-4306-b526-f3555784937e,ubiquitous.lifestyle,available,1.8,48.98,high,low,10,namecheap,,,04/09/2026 13:54
-aa187d86-8522-46a1-860a-58b7cf5270a6,food.lifestyle,premium,2183.84,2183.84,high,medium,4,porkbun,,,30/09/2026 01:26
+aa187d86-8522-46a1-860a-58b7cf5270a6,food.lifestyle,premium,2660,2660,high,medium,4,namesilo,,,01/10/2026 22:52
 0ff7b5cb-4414-45b6-aa42-b6ca7945cf44,rumours.lifestyle,available,5.49,39.99,medium,low,7,namesilo,,,30/09/2026 00:33
 276ca1c4-adf6-4281-961d-ebc9b9a15d1a,boat.lifestyle,premium,273.44,273.44,high,low,4,porkbun,,,29/09/2026 03:06
 ada97306-6a3d-4cbd-a966-f80db3f7a128,styptic.lifestyle,available,1.8,48.98,medium,low,7,namecheap,,,07/08/2026 10:00
@@ -953,49 +999,3 @@ dc5dfed5-0e90-424a-a8f7-85d929312538,nauseous.lifestyle,available,1.8,48.98,medi
 95ed4cec-1f3a-4b63-9f75-49aa945b3c94,deccan.lifestyle,available,5.49,39.99,medium,low,6,namesilo,,,29/09/2026 23:43
 4bf107e7-40e0-4c90-8696-a9a50656cd27,niece.lifestyle,premium,72.65,103.7,high,low,5,spaceship,,,30/09/2026 05:40
 26d2972d-91d1-48dc-9ac7-d838c0a87f93,creditors.lifestyle,available,5.49,39.99,medium,low,9,namesilo,,,20/09/2026 15:31
-35644047-70cb-440b-af9d-77faa5f30e1b,purity.lifestyle,available,5.49,39.99,high,low,6,namesilo,,,28/09/2026 15:09
-7fd8568c-46b5-4e90-9efe-cb039326044e,advertises.lifestyle,available,5.49,39.99,medium,low,10,namesilo,,,18/09/2026 17:19
-1866af0a-c833-413b-9fbb-413ffa08e7c3,cager.lifestyle,premium,125,125,medium,low,5,name.com,,,22/09/2026 11:27
-268d793d-ad24-4c8a-9406-6a727a378c18,inception.lifestyle,premium,1107,1107,high,low,9,namesilo,,,29/09/2026 23:45
-4963e3b9-7c90-40d8-8778-ac597d2a1cbc,bakery.lifestyle,available,5.49,39.99,high,low,6,namesilo,,,28/09/2026 12:14
-1d509bcc-a0db-4157-ae51-d0037fbce00f,smoker.lifestyle,available,1.8,48.98,medium,low,6,namecheap,,,30/09/2026 02:54
-4b0590d6-e0f3-462e-9afc-28d0f1091632,wire.lifestyle,premium,302.5,302.5,high,low,4,namesilo,,,29/09/2026 05:42
-156d2ea8-c570-48de-85a7-764188b03076,belladonna.lifestyle,available,5.49,39.99,medium,low,10,namesilo,,,21/09/2026 00:55
-145b88df-023a-47ea-b5f7-e40a00e28ade,huston.lifestyle,available,1.24,31.25,medium,low,6,spaceship,,,28/09/2026 14:28
-d4657b4b-c1cb-4322-a432-1a90b020c8c7,monks.lifestyle,premium,116,116,high,low,5,namesilo,,,28/09/2026 21:40
-966aee89-0bcf-4de4-b7bf-03f60cae9f2b,deflated.lifestyle,available,1.8,48.98,medium,low,8,namecheap,,,12/08/2026 02:17
-c558eaa5-bbe2-40e9-b99d-6139d0dc74b0,spreadsheet.lifestyle,available,5.49,39.99,high,low,11,namesilo,,,
-5fd8bd62-d6f6-4f2a-95ea-1f61d2db5dba,nettled.lifestyle,available,1.8,48.98,medium,low,7,namecheap,,,
-e8d9471d-5f70-4461-8296-af44387e1f1c,obliging.lifestyle,available,1.8,48.98,high,low,8,namecheap,,,12/08/2026 19:27
-f7cdeae6-2b4b-4d87-a66f-4a3231015749,immortal.lifestyle,available,1.8,48.98,high,low,8,namecheap,,,21/08/2026 21:12
-4110b8cd-8b87-438a-8a5c-c854cd85706e,gibbons.lifestyle,available,5.49,39.99,medium,low,7,namesilo,,,29/09/2026 04:20
-7a3523e6-d6ad-4d21-9cdf-72c533995cb8,songbird.lifestyle,available,1.24,31.25,high,low,8,spaceship,,,30/09/2026 11:31
-06fe9366-ec15-4eca-881c-163850e2cb6b,bureaucrat.lifestyle,available,5.49,39.99,high,low,10,namesilo,,,17/09/2026 08:44
-7390c3ed-2d5b-401b-9d84-5626e2127c01,establishment.lifestyle,available,39.99,,medium,low,13,name.com,,,
-8895a8c8-f7dc-4aec-963d-38bca7ecff34,curfew.lifestyle,available,1.8,48.98,medium,low,6,namecheap,,,24/09/2026 20:27
-424a3a2d-7ca3-4587-8614-64bf6c308f05,answer.lifestyle,premium,1092.18,1092.18,high,low,6,porkbun,,,28/09/2026 21:32
-e5876c2e-f2b6-42ec-b62d-26bbee49c398,accessories.lifestyle,available,5.49,39.99,medium,low,11,namesilo,,,28/09/2026 10:52
-f1a3738d-7995-41a0-b609-c151df3639dc,adventism.lifestyle,available,5.49,39.99,medium,low,9,namesilo,,,17/09/2026 10:32
-06b8745c-d678-4b29-a148-0f9684947a8c,emily.lifestyle,available,5.49,39.99,high,medium,5,namesilo,,,25/09/2026 14:07
-e3b0b700-b2bf-4990-9a42-957e142361c6,incidence.lifestyle,available,1.24,31.25,high,low,9,spaceship,,,29/09/2026 23:46
-9de89ea3-d584-4081-90bc-930460683939,algorism.lifestyle,available,5.49,39.99,medium,low,8,namesilo,,,18/09/2026 07:14
-9098ef02-3417-4331-83ba-c711f14f22ae,thrilling.lifestyle,available,1.8,48.98,high,low,9,namecheap,,,16/08/2026 02:41
-a5cfc06f-e2b5-4f70-b533-b902f1400729,definable.lifestyle,available,1.8,48.98,medium,low,9,namecheap,,,13/08/2026 23:28
-b0de271a-5bbe-486d-ae82-86efef61971b,bilimbi.lifestyle,available,1.8,48.98,medium,low,7,namecheap,,,21/09/2026 09:13
-db2ee9da-27d5-4d8e-b825-7f083ce1df4c,sins.lifestyle,premium,302.5,302.5,medium,low,4,namesilo,,,27/09/2026 10:40
-db6b4c99-4adc-45c2-be1a-107a25ebbea2,authoring.lifestyle,available,1.24,31.25,high,low,9,spaceship,,,30/09/2026 11:46
-7c135c61-04b2-4ba2-a56a-16052c6fb4a2,copeland.lifestyle,available,5.49,39.99,high,low,8,namesilo,,,27/09/2026 07:52
-6ffe7296-9c91-4c54-a9da-6260d877a767,averages.lifestyle,available,1.24,31.25,medium,low,8,spaceship,,,01/10/2026 00:38
-72314fb5-6968-4d3f-a333-8261ca988c92,barye.lifestyle,premium,116,116,medium,low,5,namesilo,,,22/09/2026 03:48
-7be5568e-82a6-45d4-8989-3cc7e4cc8204,excellent.lifestyle,available,5.49,39.99,high,low,9,namesilo,,,24/09/2026 15:50
-582daf23-c0e8-4ab1-8aca-41c4ea18a5d7,unary.lifestyle,premium,91,130,medium,low,5,namecheap,,,12/09/2026 01:06
-1d5abd20-b9d9-4d4e-87d5-f6da53c58feb,laurent.lifestyle,available,5.49,39.99,medium,low,7,namesilo,,,27/09/2026 09:55
-eb87274b-2c85-4f7c-8ada-3ff39ca706c5,affects.lifestyle,available,5.49,39.99,medium,low,7,namesilo,,,20/09/2026 03:57
-dfbebab7-ae68-43c7-9f63-18b22f2f53a2,deferent.lifestyle,available,1.8,48.98,medium,low,8,namecheap,,,13/08/2026 23:17
-3e832e06-efcd-4b3e-bc31-576c9849c23e,vendible.lifestyle,available,1.8,48.98,medium,low,8,namecheap,,,24/08/2026 20:32
-6cadd068-660a-4f90-bbc7-030556fc4278,godly.lifestyle,premium,91,130,high,low,5,namecheap,,,14/08/2026 13:55
-3d59e27f-eed6-4054-b3c0-d7d0e39164d5,blaise.lifestyle,available,4.99,32.32,medium,low,6,dynadot,,,30/09/2026 13:38
-df64ae50-69a6-46ad-83f2-da2725fef6ee,japanese.lifestyle,premium,1820,2600,high,low,8,namecheap,,,22/08/2026 12:22
-7df7fe75-fa9e-4872-9560-09f986859099,merchandise.lifestyle,available,5.49,39.99,high,low,11,namesilo,,,30/09/2026 09:41
-ddd1f8e6-287a-49b4-a217-5f16a6b7a6c9,bipolar.lifestyle,available,1.8,48.98,high,low,7,namecheap,,,10/08/2026 05:30
-8dd0ef34-06b9-44bb-8e64-515719805273,observation.lifestyle,available,5.49,39.99,high,low,11,namesilo,,,30/09/2026 05:44
